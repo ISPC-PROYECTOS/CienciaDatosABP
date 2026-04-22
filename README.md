@@ -1,7 +1,14 @@
 # 📊 CIENCIAS DE DATOS - ABP
 
 Repositorio del proyecto ABP de la materia **Ciencia de Datos**  
-Tecnicatura Superior en Desarrollo de Software - ISPC  
+Tecnicatura Superior en Desarrollo de Software - ISPC
+
+Integrantes:
+- Barrera, Lautaro
+- Marchisone, Jorge
+- Pereyra, Hebe
+- Picco, Victoria
+- Suarez, Mariela
 
 ---
 
