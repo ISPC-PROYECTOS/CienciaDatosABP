@@ -33,15 +33,20 @@ Comprender el problema y realizar una primera exploración de los datos.
 
 ---
 
+## 🧩 Entrega 2 – Limpieza y transformación
+
+### 🎯 Objetivo
+Preparar los datos  
+
+### ✅ Actividades realizadas
+
+- 💻 Limpieza de datos
+- 💻 Estandarización de datos
+- 📊 Dataset Final
+
+--
+
 ## 🚀 Próximas entregas
-
-### 🧹 Entrega 2 – Limpieza y transformación
-**Objetivo:** preparar los datos  
-
-Incluye:
-- Limpieza de datos  
-- Estandarización  
-- Dataset final  
 
 ### 📊 Entrega 3 – Análisis exploratorio
 **Objetivo:** obtener información  
