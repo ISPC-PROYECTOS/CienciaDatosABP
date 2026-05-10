@@ -18,7 +18,7 @@ Proyecto enfocado en el análisis de emisiones de Gases de Efecto Invernadero (G
 
 ---
 
-## 🧩 Primera entrega
+## 🧩 Entrega 1 - Comprensión del problema y datos
 
 ### 🎯 Objetivo
 Comprender el problema y realizar una primera exploración de los datos.
@@ -36,7 +36,7 @@ Comprender el problema y realizar una primera exploración de los datos.
 ## 🧩 Entrega 2 – Limpieza y transformación
 
 ### 🎯 Objetivo
-Preparar los datos  
+Preparar los datos para posteriormente poder analizarlos correctamente.
 
 ### ✅ Actividades realizadas
 
@@ -44,7 +44,7 @@ Preparar los datos
 - 💻 Estandarización de datos
 - 📊 Dataset Final
 
---
+---
 
 ## 🚀 Próximas entregas
 
