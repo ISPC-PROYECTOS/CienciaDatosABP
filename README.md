@@ -6,9 +6,7 @@ Tecnicatura Superior en Desarrollo de Software - ISPC
 Integrantes:
 - Barrera, Lautaro
 - Marchisone, Jorge
-- Pereyra, Hebe
 - Picco, Victoria
-- Suarez, Mariela
 
 ---
 
