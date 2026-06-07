@@ -38,18 +38,19 @@ Preparar los datos para posteriormente poder analizarlos correctamente.
 
 ### ✅ Actividades realizadas
 
-- 💻 Limpieza de datos
+- 🧹 Limpieza de datos
 - 💻 Estandarización de datos
 - 📊 Dataset Final
 
 ---
 
-## 🚀 Próximas entregas
+## 🧩 Entrega 3 – Análisis exploratorio
 
-### 📊 Entrega 3 – Análisis exploratorio
-**Objetivo:** obtener información  
+### 🎯 Objetivo
+Obtener información relevante a partir de los datos procesados.
 
-Incluye:
-- Análisis descriptivo  
-- Detección de patrones  
-- Primeras conclusiones  
+### ✅ Actividades realizadas
+- 📊 Análisis descriptivo
+- 🔍 Detección de patrones  
+- 🖥️ Desarrollo de dashboard para visualización de resultados
+- 📝 Primeras conclusiones
